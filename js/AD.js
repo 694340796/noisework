@@ -1,66 +1,7 @@
 // 广告位
 // 广告数组
 var ads = [
-  {
-    image: "../assets/mh.webp",
-    link: "https://app.xkcc.vip/invitation_register?invitation_code=KIklg4ZV",
-    description: "专业破解软件下载商店"
-  },
-  {
-    image: "https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20230818/11宝.5gadu623kd00.jpg",
-    link: "https://noisevip.cn",
-    description: "包罗万象-Noise宝藏阁"
-  },
-  {
-    image: "https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/%E8%B6%85%E5%A4%A7%E6%B5%81%E9%87%8F%E5%8D%A1.png",
-    link: "https://hk.yunhaoka.cn/#/pages/micro_store/index?agent_id=422648",
-    description: "超大流量卡优惠办理渠道2"
-  },
-  {
-    image: "../assets/p121.webp",
-    link: "https://www.noisework.cn/lianxi/weixin.png",
-    description: "优惠专业苹果证书定制，稳定售后一年"
-  },
-  {
-    image: "https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/%E8%B6%85%E5%A4%A7%E6%B5%81.png",
-    link: "https://simhaoka.com/phone/index?id=A7BA17EFD6DC47F6826F0C67B898725A",
-    description: "超大流量卡优惠办理手机渠道1"
-  },
-  {
-    image: "https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/1689175720-6446d860dbbfe54.png",
-    link: "https://www.duomexing.com",
-    description: "多么行-AI数字化模型扩展"
-  },
-  {
-    image: "https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/919.png",
-    link: "https://www.noisework.cn/soso",
-    description: "书签检索-bookmark"
-  },
-  {
-    image: "https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/%E8%B6%85%E5%A4%A7%E6%B5%81%E9%87%8F%E5%8D%A1.png",
-    link: "https://hk.yunhaoka.cn/#/pages/micro_store/index?agent_id=422648",
-    description: "超大流量卡优惠办理渠道2"
-  },
-  {
-    image: "https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/6%20Exercises%20to%20Overcome%20Skill%20Plateaus%20as%20a%20Designer.jpeg",
-    link: "https://www.noisework.cn",
-    description: "广告位+点击可查看"
-  },
-  {
-    image: "https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20230818/2321312.1o5qd8jb6elc.jpg",
-    link: "https://www.noisedh.cn",
-    description: "超量收录-Noise导航"
-  },
-  {
-    image: "https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/%E6%A0%AA%E3%82%AD%E3%82%99%E3%83%A3%E3%83%AB%20on%20X.jpeg",
-    link: "https://www.noisework.cn",
-    description: "广告位+点击可查看"
-  },
-  {
-    image: "https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/%F0%9D%95%9E%F0%9D%95%A0%F0%9D%95%A6%F0%9D%95%A6%F0%9D%95%9F.jpeg",
-    link: "https://www.noisework.cn",
-    description: "广告位+点击可查看"
-  }
+ 
 ];
 
 // 随机打乱广告数组
