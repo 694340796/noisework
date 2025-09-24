@@ -86,7 +86,7 @@ if (window.innerWidth > 720) {
 }
 
 /* footer */
-const startDate = new Date('2020/12/09');
+const startDate = new Date('2025/09/23');
 const daysElement = document.getElementById('days');
 const days = Math.floor((new Date() - startDate) / (1000 * 60 * 60 * 24));
 daysElement.textContent = `${days}天`;
